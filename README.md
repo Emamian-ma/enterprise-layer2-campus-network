@@ -295,4 +295,3 @@ This lab reinforces the following CCNA-level concepts:
 - **Name:** RootUser (Seyed mohammad ali Emamian)  
 - **Role:** Computer Engineer / Network Enthusiast  
 - **Interests:** Cisco networking, open-source, Linux, enterprise network design
-```
