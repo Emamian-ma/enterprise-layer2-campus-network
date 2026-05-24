@@ -256,18 +256,14 @@ ssh -l admin 192.168.99.1
 ```text
 .
 ├── topology/
-│   └── topology.png           # Topology diagram
+│   └── topology.png        # Topology diagram
+│   └── topolohy.detail.png #detail
 │
 ├── configs/
 │   ├── DSW1.txt               # DSW1 running-config
 │   ├── DSW2.txt               # DSW2 running-config
 │   ├── ASW1.txt               # ASW1 running-config
 │   └── ASW2.txt               # ASW2 running-config
-│
-├── docs/                      # (Optional) Design & troubleshooting notes
-│   ├── ip-plan.md
-│   ├── vlan-design.md
-│   └── troubleshooting.md
 │
 └── README.md
 ```
